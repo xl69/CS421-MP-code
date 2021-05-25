@@ -1,0 +1,18 @@
+? /Users/xl69/Desktop/CS421/mps/mp2-interpreter/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/friendly-test/autogen/Paths_interpreter.hs
+: hash: 84f0c540de5889eb9f4faac44c5a8a474f16d3c8b4923ca7dbdefcf3f1665e67
+/Users/xl69/Desktop/CS421/mps/mp2-interpreter/test/StmtGens.hs:
+  hash: 1a7b84c3f822ebd7f660526038841a0e47086bd55ab9c34872a8652d26c3bfaf
+/Users/xl69/Desktop/CS421/mps/mp2-interpreter/README.md:
+  hash: c87a6447e5647b3e41caf6da1f46cca9b83bde2702a7edc031ebfed6842da169
+/Users/xl69/Desktop/CS421/mps/mp2-interpreter/test/ExpGens.hs:
+  hash: 8c86897bf6dcc636b51929d0f68fbc19339801276a01d42b1b147ff13cc040f5
+/Users/xl69/Desktop/CS421/mps/mp2-interpreter/interpreter.cabal:
+  hash: c2a7bfad1a670ebc711caefec188f187abfa198b5d5b52ca2f9d21bc4671aad1
+/Users/xl69/Desktop/CS421/mps/mp2-interpreter/package.yaml:
+  hash: 25417f051119d8b0de10e6aa4444735d57e55e0925f6742cda6f536d2f211b72
+/Users/xl69/Desktop/CS421/mps/mp2-interpreter/test/UnitTests.hs:
+  hash: 25ec14904ed3cad1b31d85b52759a11e2aea5f83ec899e23a76dbf05f1f6fec4
+/Users/xl69/Desktop/CS421/mps/mp2-interpreter/test/friendly/FriendlySpec.hs:
+  hash: 29759ea8b601e22c9b2a6f1f41157a161dc9ef9f476ebd497ffe13caa7d16c34
+/Users/xl69/Desktop/CS421/mps/mp2-interpreter/test/PropertyTests.hs:
+  hash: 36dd4a76e932ed71975a65d7fa1182ebfc5adc53b142d85ceae8eac9301db947
